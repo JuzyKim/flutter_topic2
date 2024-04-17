@@ -1,4 +1,4 @@
-# osnovii
+# Counter.In this app you can add and cons numbers
 
 A new Flutter project.
 
